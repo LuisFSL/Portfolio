@@ -1,0 +1,37 @@
+.container .btn-group {
+}
+.navbar.navbar-default .container-fluid {
+	background-color: #000000;
+}
+.container .btn-group {
+	right: -500px;
+	top: 50px;
+}
+body {
+	background-image: url(Fundo.png);
+}
+.container h2 {
+	color: #FF9616;
+}
+.container .form-group label {
+	color: #FF9616;
+}
+body p {
+	color: #FF9616;
+}
+body h1 {
+	color: #FCCB29;
+}
+.jumbotron {
+	height: 0px;
+}
+.jumbotron h1 {
+	margin-top: -36px;
+}
+.modal-content .modal-body p {
+}
+.container #myCarousel {
+	top: 101px;
+}
+.jumbotron .container .btn.btn-info.btn-lg {
+}
